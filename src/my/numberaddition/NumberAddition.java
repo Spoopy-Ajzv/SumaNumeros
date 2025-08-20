@@ -46,7 +46,7 @@ public class NumberAddition extends javax.swing.JFrame {
 
         jTextField3.setFocusable(false);
 
-        jButton1.setText("Añadir");
+        jButton1.setText("Sumar");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton1ActionPerformed(evt);
